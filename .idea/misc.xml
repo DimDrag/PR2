@@ -3,8 +3,9 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/Users/1/Desktop/mobilki/PR2/app/src/main/res/layout/activity_main.xml" value="0.1" />
-        <entry key="..\:/Users/1/Desktop/mobilki/PR2/app/src/main/res/layout/relative_layout.xml" value="0.17760416666666667" />
+        <entry key="..\:/Users/1/Desktop/mobilki/PR2/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/Users/1/Desktop/mobilki/PR2/app/src/main/res/layout/linear_layout.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/1/Desktop/mobilki/PR2/app/src/main/res/layout/relative_layout.xml" value="0.264" />
         <entry key="..\:/Users/1/Desktop/mobilki/PR2/app/src/main/res/layout/rl.xml" value="0.17760416666666667" />
       </map>
     </option>
