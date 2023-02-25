@@ -4,4 +4,6 @@
     <string name="system_in_page_text">S21 Личный кабинет</string>
     <string name="hint_for_login">Введите логин…</string>
     <string name="hint_for_password">Введите пароль…</string>
+    <string name="enter_button">ВОЙТИ В СИСТЕМУ</string>
+    <string name="dark_theme">тёмная тема</string>
 </resources>
